@@ -6,13 +6,17 @@
 3. open it
 4. done
  
+## credits
+* [Inconsolata](https://fonts.google.com/specimen/Inconsolata) - the main font used
+* [Needy Girl Overdose](https://osu.ppy.sh/community/forums/topics/1925369) - nabbed the hitsounds from this
+
 ## roadmap
 - [x] std
 - [ ] mania
 - [ ] taiko
 - [x] no one plays ctb
 - [ ] sounds
-- [ ] fonts
+- [x] fonts
 - [ ] ui
 - [ ] that's it
 
