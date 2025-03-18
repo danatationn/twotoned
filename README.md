@@ -1,12 +1,18 @@
 # twotoned - an osu! skin
 
+the actual skin's files are over at [the-actual-skin](https://github.com/danatationn/twotoned/tree/the-actual-skin) branch so you don't need to scroll 10 light years to read this readme
+twotoned is a minimalistic skin that is made with everyone in mind. you don't need a certain aspect ratio or anything, all elements are very minimally changed
+
 ## installing
-1. hit `Code` and then click on `Download ZIP`
-2. extract the zip file
-3. archive the files inside `src`
-4. rename the `.zip` part of the file to `.osk`
-5. open it
-6. done
+### releases
+1. not out yet
+
+### nightly/beta
+1. go to [the-actual-skin](https://github.com/danatationn/twotoned/tree/the-actual-skin)
+2. hit `Code` and then click on `Download ZIP`
+3. rename the `.zip` part of the file to `.osk`
+4. open it
+5. done
 
 ## credits
 * [Figma](https://www.figma.com/) - used to make all the graphics ([link to the figma project](https://www.figma.com/design/1zG392vYEOZUBXJ2TOsZbr/skins?node-id=521-254&t=FJRnFLu6FgFWL1PU-1))
@@ -20,9 +26,9 @@
 - [ ] mania
 - [ ] taiko
 - [x] no one plays ctb
-- [x] sounds
+- [ ] sounds
 - [x] fonts
-- [x] ui
+- [ ] ui
 - [ ] that's it
 
 ## licensing
