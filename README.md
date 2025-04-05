@@ -5,8 +5,8 @@ the actual skin's files are over at [the-actual-skin](https://github.com/danatat
 twotoned is a minimalistic skin that is made with everyone in mind. you don't need a certain aspect ratio or anything, all elements are very minimally changed
 
 ## preview
-<details>
-<summary> video (ricky bobby - leroy) </summary>
+<details> <summary> video (ricky bobby - leroy) </summary>
+
 [here's the video](https://youtu.be/4QDLnTgRVz4)
 
 github doesn't allow embeds of videos over 10mb . And you also cannot embed videos from other platforms
@@ -14,16 +14,15 @@ github doesn't allow embeds of videos over 10mb . And you also cannot embed vide
 Lol!
 </details>
 
-<details>
-<summary> some screenshots too </summary>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-36.png?raw=true" width="512"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-53.png?raw=true" width="512"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-44-38.png?raw=true" width="512"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-00.png?raw=true" width="512"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-13.png?raw=true" width="512"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-01.png?raw=true" width="512"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-11.png?raw=true" width="512"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-47-05.png?raw=true" width="512"/>
+<details> <summary> some screenshots too </summary>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-36.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-53.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-44-38.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-00.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-13.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-01.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-11.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-47-05.png?raw=true" width="384"/>
 </details>
 
 ## installing
