@@ -9,9 +9,9 @@ twotoned is a minimalistic skin that is made with everyone in mind. you don't ne
 1. not out yet
 
 ### nightly/beta
-1. go to [the-actual-skin](https://github.com/danatationn/twotoned/tree/the-actual-skin)
-2. hit `Code` and then click on `Download ZIP`
-3. rename the `.zip` part of the file to `.osk`
+1. click this [download link](https://github.com/danatationn/twotoned/archive/refs/heads/the-actual-skin.zip)
+2. rename the `.zip` part of the file to `.osk`
+3. optionally remove the "the-actual-skin" part from the .osk file
 4. open it
 5. done
 
