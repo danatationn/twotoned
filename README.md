@@ -7,7 +7,11 @@ twotoned is a minimalistic skin that is made with everyone in mind. you don't ne
 ## preview
 <details>
 <summary> video (ricky bobby - leroy) </summary>
-[![preview of the map ricky bobby by leroy](https://youtu.be/4QDLnTgRVz4)]
+[here's the video](https://youtu.be/4QDLnTgRVz4)
+
+github doesn't allow embeds of videos over 10mb . And you also cannot embed videos from other platforms
+
+Lol!
 </details>
 
 <details>
