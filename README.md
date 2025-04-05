@@ -4,6 +4,17 @@ the actual skin's files are over at [the-actual-skin](https://github.com/danatat
 
 twotoned is a minimalistic skin that is made with everyone in mind. you don't need a certain aspect ratio or anything, all elements are very minimally changed
 
+## preview
+<details>
+<summary> video (ricky bobby - leroy) </summary>
+<video/>
+</details>
+
+<details>
+<summary> some screenshots too </summary>
+jsdkljfklg
+</details>
+
 ## installing
 ### releases
 1. not out yet
