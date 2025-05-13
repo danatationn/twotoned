@@ -27,7 +27,8 @@ Lol!
 
 ## installing
 ### releases
-1. not out yet
+* beta [download](https://github.com/danatationn/twotoned/releases/download/v0.1.0-beta/twotoned.osk) (get this one !!)
+* alpha [download](https://github.com/danatationn/twotoned/releases/download/v0.0.0-alpha/twotoned.osk)
 
 ### nightly/beta
 1. click this [download link](https://github.com/danatationn/twotoned/archive/refs/heads/the-actual-skin.zip)
