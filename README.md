@@ -7,7 +7,7 @@ twotoned is a minimalistic skin that is made with everyone in mind. you don't ne
 ## preview
 <details> <summary> video (ricky bobby - leroy) </summary>
 
-[here's the video](https://youtu.be/4QDLnTgRVz4)
+[here's the video (outdated !!)](https://youtu.be/4QDLnTgRVz4)
 
 github doesn't allow embeds of videos over 10mb . And you also cannot embed videos from other platforms
 
@@ -15,12 +15,12 @@ Lol!
 </details>
 
 <details> <summary> some screenshots too </summary>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-36.png?raw=true" width="384"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-53.png?raw=true" width="384"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-44-38.png?raw=true" width="384"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-00.png?raw=true" width="384"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-13.png?raw=true" width="384"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-01.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2021-57-14.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2021-57-21.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2021-57-24.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-12-01.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-12-44.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-13-48.png?raw=true" width="384"/>
 <img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-11.png?raw=true" width="384"/>
 <img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-47-05.png?raw=true" width="384"/>
 </details>
@@ -45,12 +45,12 @@ Lol!
 
 ## roadmap
 - [x] std
-- [ ] mania
+- [x] mania
 - [ ] taiko
-- [x] no one plays ctb
+- [ ] ctb
 - [ ] sounds
 - [x] fonts
-- [ ] ui
+- [x] ui
 - [ ] that's it
 
 ## licensing
