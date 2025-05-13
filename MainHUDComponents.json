@@ -108,8 +108,8 @@
       {
         "Type": "osu.Game.Screens.Play.HUD.JudgementCounter.JudgementCounterDisplay, osu.Game, Version=2025.424.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
-          "x": -18.896027,
-          "y": -18.89946
+          "x": -16.0,
+          "y": -16.0
         },
         "Rotation": 0.0,
         "Scale": {
@@ -132,8 +132,8 @@
       {
         "Type": "osu.Game.Skinning.Triangles.TrianglesPerformancePointsCounter, osu.Game, Version=2025.424.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
-          "x": 0.0008544922,
-          "y": 17.636932
+          "x": 0.0,
+          "y": 8.0
         },
         "Rotation": 0.0,
         "Scale": {
