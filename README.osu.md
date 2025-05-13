@@ -3,22 +3,22 @@ its gimmick is that most of the skin elements are bright on the top and dark on 
 
 [i]media time !![/i]
 [box=screenshots 4/8]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-36.png?raw=true[/img]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-43-53.png?raw=true[/img]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-44-38.png?raw=true[/img]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-00.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2021-57-14.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2021-57-21.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2021-57-24.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-12-01.png?raw=true[/img]
 [/box]
 [box=screenshots 8/8]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-45-13.png?raw=true[/img]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-01.png?raw=true[/img]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-11.png?raw=true[/img]
-[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-47-05.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-12-44.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-13-48.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-25-33.png?raw=true[/img]
+[img]https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-26-10.png?raw=true[/img]
 [/box]
-[box=video]
+[box=video (outdated)]
 [youtube]4QDLnTgRVz4[/youtube]
 [/box]
 
-[box=credits and acknowledgements 😁]
+[box=credits and acknowledgements]
 [list]
 [*]first of all Thank you to my dear friend waxatak for helping me come up with the name
 [*] [url=https://www.figma.com/]Figma[/url] - used to make all the graphics ([url=https://www.figma.com/design/1zG392vYEOZUBXJ2TOsZbr/skins?node-id=521-254&t=FJRnFLu6FgFWL1PU-1]link to the figma project[/url])
@@ -32,7 +32,7 @@ its gimmick is that most of the skin elements are bright on the top and dark on 
 
 [i]now the actual thing you're looking for[/i]
 [box=the download]
-[url=https://drive.google.com/file/d/1dSHdNkmCt7b1LOy-R5n3-MzWoYRG932s/view?usp=drive_link]latest version[/url] (gdrive link)
+[url=https://github.com/danatationn/twotoned/releases/download/v0.1.0-beta/twotoned.osk]latest version[/url] (github mirror)
 [url=https://drive.google.com/drive/u/0/folders/1nrkkFCxjapp1Kh46u1u2QY6izGIkeZEH]all versions[/url] (gdrive folder)
 [/box]
 [box=nightly version]
@@ -44,9 +44,5 @@ its gimmick is that most of the skin elements are bright on the top and dark on 
 [*]now just click on it and you're done
 [/list]
 [/box]
-
-there are a LOT of things to be done, like remaking the mods and what not, but i think it's in a good enough state to be posted on the forums
-here's the [url=https://trello.com/b/ckrMzz9X/twotoned]trello board[/url] for twotoned in case you want to track its progress
-i hope you enjoy 🙏🙏
 
 © WTFPL where not mentioned otherwise
