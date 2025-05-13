@@ -21,8 +21,8 @@ Lol!
 <img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-12-01.png?raw=true" width="384"/>
 <img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-12-44.png?raw=true" width="384"/>
 <img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-13-48.png?raw=true" width="384"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-46-11.png?raw=true" width="384"/>
-<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-04-05%2010-47-05.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-25-33.png?raw=true" width="384"/>
+<img src="https://github.com/danatationn/twotoned/blob/readme/media/Screenshot%20From%202025-05-13%2022-26-10.png?raw=true" width="384"/>
 </details>
 
 ## installing
