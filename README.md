@@ -33,26 +33,26 @@ Lol!
 ### nightly/beta
 1. click this [download link](https://github.com/danatationn/twotoned/archive/refs/heads/the-actual-skin.zip)
 2. rename the `.zip` part of the file to `.osk`
-3. optionally remove the "the-actual-skin" part from the .osk file
-4. open it
-5. done
+3. open it
+4. done
 
 ## credits
 * [Figma](https://www.figma.com/) - used to make all the graphics ([link to the figma project](https://www.figma.com/design/1zG392vYEOZUBXJ2TOsZbr/skins?node-id=521-254&t=FJRnFLu6FgFWL1PU-1))
 * [Lexend](https://fonts.google.com/specimen/Lexend) - the main font used
 * [Argon Pro](https://github.com/ppy/osu-resources/tree/master/osu.Game.Resources/Samples/Gameplay/ArgonPro) - nabbed the hitsounds from this. is also one of the lazer skins :p
 * [Exit Music: Redux](https://www.reddit.com/r/DDLCMods/comments/t49e4e/exit_music_redux_11_release/) - the 2 main menu sounds and the pause loop
+* [Wintermute](https://www.reddit.com/r/DDLCMods/comments/vy2ns1/project_wintermute_full_release/) - section pass sounds and the slider bar
 * [Diva](https://u-he.com/products/diva/) - used to make some of the menu sounds
 
 ## roadmap
 - [x] std
-- [x] mania
+- [ ] mania
 - [ ] taiko
 - [ ] ctb
-- [ ] sounds
+- [x] sounds
 - [x] fonts
 - [x] ui
 - [ ] that's it
 
 ## licensing
-the Argon Pro hitsounds are licensed under [CC-BY 4.0](https://github.com/danatationn/quixotic2/blob/main/LICENSE.CC-BY-4.0), while the rest of the skin is licensed under [WTFPL](https://github.com/danatationn/quixotic2/blob/main/LICENSE.WTFPL)
+the Argon Pro hitsounds are licensed under [CC-BY 4.0](LICENSE.CC-BY-4.0), while the rest of the skin is licensed under [WTFPL](LICENSE.WTFPL)
