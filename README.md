@@ -8,7 +8,8 @@ https://github.com/danatationn/twotoned
 * [Lexend](https://fonts.google.com/specimen/Lexend) - the main font used
 * [Argon Pro](https://github.com/ppy/osu-resources/tree/master/osu.Game.Resources/Samples/Gameplay/ArgonPro) - nabbed the hitsounds from this. is also one of the lazer skins :p
 * [Exit Music: Redux](https://www.reddit.com/r/DDLCMods/comments/t49e4e/exit_music_redux_11_release/) - the 2 main menu sounds and the pause loop
+* [Wintermute](https://www.reddit.com/r/DDLCMods/comments/vy2ns1/project_wintermute_full_release/) - section pass sounds and the slider bar
 * [Diva](https://u-he.com/products/diva/) - used to make some of the menu sounds
 
 ## licensing
-the Argon Pro hitsounds are licensed under [CC-BY 4.0](https://github.com/danatationn/quixotic2/blob/main/LICENSE.CC-BY-4.0), while the rest of the skin is licensed under [WTFPL](https://github.com/danatationn/quixotic2/blob/main/LICENSE.WTFPL)
+the Argon Pro hitsounds are licensed under [CC-BY 4.0](LICENSE.CC-BY-4.0), while the rest of the skin is licensed under [WTFPL](LICENSE.WTFPL)
